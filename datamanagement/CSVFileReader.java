@@ -1,4 +1,4 @@
-package edu.upenn.cit594.datamanagement;
+package filereader.datamanagement;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
