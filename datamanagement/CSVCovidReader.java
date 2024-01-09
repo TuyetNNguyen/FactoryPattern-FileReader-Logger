@@ -1,6 +1,6 @@
-package edu.upenn.cit594.datamanagement;
-import edu.upenn.cit594.util.CovidObject;
-import edu.upenn.cit594.util.MemoryStorage;
+package filereader.datamanagement;
+import filereader.util.CovidObject;
+import filereader.util.MemoryStorage;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
