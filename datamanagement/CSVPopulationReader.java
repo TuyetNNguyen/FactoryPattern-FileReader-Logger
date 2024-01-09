@@ -1,6 +1,6 @@
-package edu.upenn.cit594.datamanagement;
-import edu.upenn.cit594.util.MemoryStorage;
-import edu.upenn.cit594.util.PopulationObject;
+package filereader.datamanagement;
+import filereader.util.MemoryStorage;
+import filereader.util.PopulationObject;
 import java.io.IOException;
 import java.util.List;
 
