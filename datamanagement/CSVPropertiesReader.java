@@ -1,6 +1,6 @@
-package edu.upenn.cit594.datamanagement;
-import edu.upenn.cit594.util.MemoryStorage;
-import edu.upenn.cit594.util.PropertiesObject;
+package filereader.datamanagement;
+import filereader.util.MemoryStorage;
+import filereader.util.PropertiesObject;
 import java.io.IOException;
 import java.util.List;
 
